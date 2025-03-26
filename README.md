@@ -268,9 +268,7 @@ Os testes de integração verificam o funcionamento completo das rotas e sua int
 ## Como Contribuir
 - Contribuições são bem-vindas! Siga os passos abaixo para contribuir com o projeto:
 
----
-
-## Faça um fork do repositório.
+### Faça um fork do repositório.
 - Crie uma branch para sua feature ou correção:
    ```
    git checkout -b minha-feature
